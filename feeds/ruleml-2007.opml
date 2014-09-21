@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!-- generator="FeedCreator 1.7.2" -->
+<opml xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<head>
+		<title>RuleML powered Site</title>
+	</head>
+	<body>
+	<outline type="rss"  title="The International RuleML Symposium on Rule Interchange and Applications (RuleML-2007)" text="The International RuleML Symposium on Rule Interchange and Applications
+			(RuleML-2007) will take place, October 25-26, 2007, in Orlando, Florida (http://2007.ruleml.org), co-located with The 10th International Business Rules Forum (http://www.businessrulesforum.com). RuleML-2007 is devoted to practical distributed rule technologies and rule-based applications which need language standards for rules operating in the context of, e.g., the Semantic Web, Intelligent Multi-Agent Systems, Event-Driven Architectures and Service-Oriented Computing Applications.
+			A RuleML-2007 Challenge with prizes will be organized to demonstrate tools, use cases, and applications. Abstracts are due June 15, 2007.
+			Papers are due June 29, 2007." url="http://www.businessrulesforum.com"/>		
+	</body>
+</opml>
+

@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='ISO-8859-1'?>
+
+
+<rdf:RDF
+    xmlns:bibtex="http://www.edutella.org/bibtex#"
+    xmlns:dct="http://purl.org/dc/terms/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:vcard="http://www.w3.org/2001/vcard-rdf/3.0#"
+    xmlns:dc="http://purl.org/dc/elements/1.1/">
+
+    
+      <bibtex:Proceedings
+         dc:date="2007-10">
+        <dc:title>The International RuleML Symposium on Rule Interchange and Applications (RuleML-2007)</dc:title>
+        <vcard:ADR
+           vcard:Locality="Orlando"
+           vcard:Country="Florida"/>
+        <dc:publisher rdf:resource="paschke2007:Springer_LNCS"/>
+    </bibtex:Proceedings>
+    
+ 
+    <dc:publisher rdf:resource="paschke2007:Springer_LNCS"/>
+    <dc:creator>
+      <rdf:Seq>
+        <rdf:li rdf:resource="paschke2007:Adrian_Paschke"/>        
+        <rdf:li rdf:resource="paschke2007:Yevgen_Biletskiy"/>        
+      </rdf:Seq>
+    </dc:creator>
+
+
+  <bibtex:Person rdf:about="paschke2007:Adrian_Paschke">
+    <vcard:FN>Paschke Adrian</vcard:FN>
+    <vcard:N
+       vcard:Family="Paschke"
+       vcard:Given="Adrian"/>
+  </bibtex:Person>
+
+
+  <bibtex:Person rdf:about="paschke2007:Yevgen_Biletskiy">
+    <vcard:FN>Yvgen Biletskiy</vcard:FN>
+    <vcard:N
+       vcard:Family="Biletskiy"
+       vcard:Given="Yvgen"/>
+  </bibtex:Person>
+
+  <bibtex:Organization rdf:about="paschke2007:Springer_LNCS">
+    <vcard:ADR rdf:parseType="Resource">
+      <vcard:Country>X</vcard:Country>
+      <vcard:Locality>X</vcard:Locality>
+    </vcard:ADR>
+    <vcard:FN>Springer</vcard:FN>
+  </bibtex:Organization>
+</rdf:RDF>

@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+  <rdf:RDF xmlns:rdf = "http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+           xmlns:vCard = "http://www.w3.org/2001/vcard-rdf/3.0#">
+
+    <rdf:Description rdf:about = "http://2007.ruleml.org/" >
+      <vCard:FN>RuleML-2007 Symposium (Dr. Yevgen Biletskiy)</vCard:FN>
+      <vCard:N rdf:parseType="Resource">
+        <vCard:Family>Symposium</vCard:Family>
+        <vCard:Given>RuleML-2007</vCard:Given>
+        <vCard:Other>International RuleML Symposium on Rule Interchange and Applications</vCard:Other>
+        <vCard:Prefix>Int.</vCard:Prefix>
+      </vCard:N>
+      <vCard:BDAY>26/26 October 2007</vCard:BDAY>
+      <vCard:TITLE>RuleML non-for-profit</vCard:TITLE>
+      <vCard:EMAIL rdf:parseType="Resource">
+        <rdf:value>ruleml2007@easychair.org</rdf:value>
+        <rdf:type rdf:resource="http://www.w3.org/2001/vcard-rdf/3.0#internet"/>
+      </vCard:EMAIL>
+      <vCard:ADR rdf:parseType="Resource">
+        <vCard:Street>34 Reading Street</vCard:Street>
+        <vCard:Locality>Fredericton, NB</vCard:Locality>
+        <vCard:Pcode>E3B 6B9</vCard:Pcode>
+        <vCard:Country>Canada</vCard:Country>
+      </vCard:ADR>
+    </rdf:Description>
+  </rdf:RDF>
